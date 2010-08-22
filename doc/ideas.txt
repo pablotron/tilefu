@@ -1,31 +1,49 @@
-wordkick.com
-wordslap.com
-wordbolt.com
-worksock.com
-wordpelt.com
-wordbonk.com
-wordbop.com
-wordthump.com
-wordthwack.com
-wordtile.com
-wordstew.com
-wordvex.com
-wordwhy.com
-wordnuke.com
+Domains
+=======
+  * wordkick.com
+  * wordslap.com
+  * wordbolt.com
+  * worksock.com
+  * wordpelt.com
+  * wordbonk.com
+  * wordbop.com
+  * wordthump.com
+  * wordthwack.com
+  * wordtile.com
+  * wordstew.com
+  * wordvex.com
+  * wordwhy.com
+  * wordnuke.com
 
-tilefu.com
-^^^
+  # tilefu.com
+    ^^^^^^^^^^
 
+game ideas
+==========
   * alternate dictionaries
-    * first names
-    * movie names
+    - first names
+    - movie names
   * extra bonus tiles
-    * 4w, 4l
-    * harmful tiles (hw/hl)
-    * invert tile (hit it to invert letter/word bonuses)
-    * mutator (change board shape, bonus locations)
-    * nuke (clear out section of board) 
-    * magnet (pull tiles one direction)
-    * peek/poke
-    * rotating tiles (sometimes good, sometimes bad)
-
+    - 4w, 4l
+    - harmful tiles (hw/hl)
+    - invert tile (hit it to invert letter/word bonuses)
+    - mutator (change board shape, bonus locations)
+    - nuke (clear out section of board) 
+    - magnet (pull tiles one direction)
+    - peek/poke
+    - rotating tiles (sometimes good, sometimes bad)
+    - ? tiles
+  * maybe put more exotic tiles in ?/rotate tiles
+  * challenge mode (opponent has to challenge)
+  * lexulous
+    - 8 letter rack
+    - 50 point bonus for 7-letter words
+    - 60 point bonus for 8-letter words
+    - changed scores (bumped points per letter up)
+    - increased the amount of tiles
+    - larger board
+  * save board state when you leave game (so you can try out words,
+    order rack, etc)
+  * android app
+    - notifications
+    - notify by email, sms, im
